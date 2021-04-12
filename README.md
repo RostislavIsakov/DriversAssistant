@@ -8,7 +8,7 @@ _________
  
  [ ER диаграмма ](https://github.com/RostislavIsakov/ClimberClub/wiki/ER-диаграмма)
 
- [ Миграция ])
+ [ Миграция ]()
 
  [ Запросы на выборку данных ]()
 
