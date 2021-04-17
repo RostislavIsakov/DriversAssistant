@@ -7,7 +7,7 @@ _________
  
  [ Задание 4 ](https://github.com/RostislavIsakov/DriversAssistant/wiki/Задание-4)
  
- [ Задание 5-6 ]()
+ [ Задание 5-6 ](https://github.com/RostislavIsakov/DriversAssistant/wiki/Задание-5-6)
 
  [ Инфологическая модель предметной области ]()
  
