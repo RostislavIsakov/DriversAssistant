@@ -3,7 +3,7 @@ _________
 
  [ Задание 1-2 ](https://github.com/RostislavIsakov/DriversAssistant/wiki/Задание-1-2)
  
- [ Задание 3 ]()
+ [ Задание 3 ](https://github.com/RostislavIsakov/DriversAssistant/wiki/Задание-3)
  
  [ Задание 4 ]()
  
