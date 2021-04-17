@@ -1,7 +1,7 @@
 # БД приложения - Помощник водителя
 _________
 
- [ Задание 1-2 ]()
+ [ Задание 1-2 ](https://github.com/RostislavIsakov/DriversAssistant/wiki/Задание-1-2)
  
  [ Задание 3 ]()
  
@@ -13,7 +13,7 @@ _________
  
  [ Логическая схема БД ]()
  
- [ ER диаграмма ](https://github.com/RostislavIsakov/ClimberClub/wiki/ER-диаграмма)
+ [ ER диаграмма ]()
 
  [ Миграция ]()
 
