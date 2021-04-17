@@ -9,8 +9,8 @@ _________
  
  [ Задание 5-6 ](https://github.com/RostislavIsakov/DriversAssistant/wiki/Задание-5-6)
 
- [ Инфологическая модель предметной области ]()
+ [ Инфологическая модель предметной области ](https://github.com/RostislavIsakov/DriversAssistant/wiki/Инфологическая-модель-предметной-области)
  
- [ Логическая схема БД ]()
+ [ Логическая схема БД ](https://github.com/RostislavIsakov/DriversAssistant/wiki/Логическая-схема-БД)
  
- [ Физическая схема БД ]()
+ [ Физическая схема БД ](https://github.com/RostislavIsakov/DriversAssistant/wiki/Физическая-схема-БД)
